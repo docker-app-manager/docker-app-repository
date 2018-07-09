@@ -1,0 +1,8 @@
+[
+    {
+        "name": "google-chrome",
+        "author": "Dam Team",
+        "description": "Google Chrome",
+        "git": "https://github.com/docker-app-manager/docker-apps.git#google-chrome"
+    }
+]
