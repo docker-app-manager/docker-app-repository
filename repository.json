@@ -4,5 +4,11 @@
         "author": "Dam Team",
         "description": "Google Chrome",
         "git": "https://github.com/docker-app-manager/docker-apps.git#google-chrome"
+    },
+    {
+        "name": "torbrowser",
+        "author": "Dam Team",
+        "description": "Tor Browser",
+        "git": "https://github.com/docker-app-manager/docker-apps.git#torbrowser"
     }
 ]
